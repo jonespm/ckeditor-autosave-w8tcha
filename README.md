@@ -1,5 +1,5 @@
-WebJar for CKEditor
+WebJar for CKEditor autosave
 
 More info: http://webjars.org
 
-Upstream: http://ckeditor.com
+Upstream: https://github.com/w8tcha/CKEditor-AutoSave-Plugin
